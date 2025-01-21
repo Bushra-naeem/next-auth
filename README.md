@@ -41,7 +41,6 @@ Next-Auth is a library that makes it easy to add authentication to your Next.js 
 
 To configure Next-Auth, create a .env.local file in the root of your project and add your environment variables:
 
-    ```bash
     NEXTAUTH_URL=http://localhost:3000/
     NEXTAUTH_SECRET=your_secret_key
 
@@ -50,11 +49,8 @@ To configure Next-Auth, create a .env.local file in the root of your project and
 
     GOOGLE_CLIENT_ID=your_google_client_id
     GOOGLE_CLIENT_SECRET=your_google_client_secret
-    ```
 
 ## 🌐 Connect With Me
-
-**Follow me on social media:**
 
 - [Linkedln](https://www.linkedin.com/in/bushra-naeem-5b9329246/)
 - [Instagram](https://www.instagram.com/_.bushra.00/)
